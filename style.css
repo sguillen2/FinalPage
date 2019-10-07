@@ -106,3 +106,4 @@ div.box3 {
 display:none;
 }
 }
+/*In CSS we are using media queary for some of our code. "@Media" allows you to do a lot of different things. It allows you to change your whole page when you reach a certain amount of pixels.In this page When it reached 545 pixels it changed to our mobile design of our project. We also used media to change the color and pictures on our website when it reaches a certain amount of pixels.*/
